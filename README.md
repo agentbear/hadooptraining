@@ -1,5 +1,5 @@
 # bigdata_logAnalysis
-
+This is a training project.
 ##Version:
 | Component     | Version       | Download link                                                                                       |
 | ------------- |:-------------:|:----------------------------------------------------------------------------------------------------|
