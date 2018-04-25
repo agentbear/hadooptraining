@@ -3,7 +3,9 @@ This is a training project.
 ##Version:
 | Component     | Version       | Download link|
 | ------------- |:-------------:|:----------------------------------------------------------------------------------------------------|
+
 | flume         | 1.7.0         | http://mirrors.hust.edu.cn/apache/flume/1.7.0/apache-flume-1.7.0-bin.tar.gz                         |
+
 | hadoop        | 2.7.3         | http://apache.fayea.com/hadoop/common/hadoop-2.7.3/hadoop-2.7.3.tar.gz                              |
 | oozie         | 4.2.0         | http://apache.fayea.com/oozie/4.2.0/oozie-4.2.0.tar.gz                                              |
 | hive          | 2.1.0         | http://mirror.bit.edu.cn/apache/hive/stable-2/apache-hive-2.1.0-bin.tar.gz                          |
